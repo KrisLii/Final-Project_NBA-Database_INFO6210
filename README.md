@@ -1,2 +1,3 @@
 # Final-Project_NBA-Database_INFO6210
 We used the method to get YouTube data of NBA player and NBA teams using API from class. We checked what information we can get from API. Then we grasped those data and converted it to SQL command. We did not use csv or other tables because this method help us to get the latest data easily and we can filter them by hand. What’s more, we just need to alter the keyword and run the script again to get other kind of data. These followings are the results of part of Youtube.
+In this part domains were defined as ten professional basketball players from different teams. All data was acquired by Twitter API and Python code with auto-set timeline. 
